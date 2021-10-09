@@ -17,7 +17,9 @@ module.exports = {
     ],
     smoothScroll: true,
     lastUpdated: "Last Updated",
-    docsBranch: "main"
+    docsBranch: "main",
+    repo: "superciety/developer-docs",
+    editLinks: true
   },
   plugins: [
     "@vuepress/active-header-links",
