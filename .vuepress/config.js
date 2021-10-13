@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Superciety Developers",
+  title: "Developers",
   themeConfig: {
     logo: "/images/logo.png",
     nav: [{ text: "Superciety.com", link: "https://superciety.com" }],
