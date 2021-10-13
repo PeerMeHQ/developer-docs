@@ -12,5 +12,5 @@ features:
     details: Our codes are open-source — waiting for your contribution.
   - title: Built on Elrond
     details: We built software on the Elrond blockchain due to its simplicity, high-efficiency and awesome community.
-footer: Superciety is made by Superhumans
+footer: Superciety is created by Superhuman
 ---
