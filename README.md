@@ -7,10 +7,10 @@ actionText: Dive in →
 actionLink: /general/overview/
 features:
   - title: Earn $SUPER Tokens
-    details: Superciety is a community-owend organization and is dedicated to rewards all its contributers.
+    details: Superciety is a community-owned organization and is dedicated to rewarding all its contributors.
   - title: Open-Source
     details: Our codes are open-source — waiting for your contribution.
   - title: Built on Elrond
-    details: We built software on the Elrond blockchain due to its simplicity, high-efficiency and awesome community.
+    details: We built software on the Elrond blockchain due to its simplicity, high efficiency, and incredible community.
 footer: Superciety is created by Superhuman
 ---
