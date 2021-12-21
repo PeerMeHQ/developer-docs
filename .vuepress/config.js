@@ -7,7 +7,11 @@ module.exports = {
       {
         title: 'General',
         collapsable: false,
-        children: prefix('general', ['overview', 'tech-stack']),
+      },
+      {
+        title: 'Fundamentals',
+        collapsable: false,
+        children: prefix('fundamentals', ['elrond']),
       },
       {
         title: 'Services',
