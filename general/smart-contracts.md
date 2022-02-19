@@ -10,3 +10,6 @@ All of our smart contracts are open-source to ensure transparency & verifiabilit
 - Distributon:
   - Address: [erd1qqqqqqqqqqqqqpgqaqysetv6704mmktdyylzh08rtluquhpd27rsdkgh63](https://explorer.elrond.com/accounts/erd1qqqqqqqqqqqqqpgqaqysetv6704mmktdyylzh08rtluquhpd27rsdkgh63)
   - Code [https://github.com/Superciety/distribution-sc](https://github.com/Superciety/distribution-sc)
+- Rewards (LP Incentive Program):
+  - Address: [erd1qqqqqqqqqqqqqpgqhyd07gd8ugs9kc3hqp6mh8l3898mq6hy27rsyh7xkd](https://explorer.elrond.com/accounts/erd1qqqqqqqqqqqqqpgqhyd07gd8ugs9kc3hqp6mh8l3898mq6hy27rsyh7xkd)
+  - Code [https://github.com/Superciety/rewards-sc](https://github.com/Superciety/rewards-sc)
